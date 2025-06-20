@@ -1,0 +1,43 @@
+{
+  "data": "2025-06-20T10:02:10.277912",
+  "total_registros": 128,
+  "quantidade_por_fonte": {
+    "https://canaltech.com.br": 47,
+    "https://www.tecmundo.com.br": 18,
+    "https://www.techtudo.com.br": 36,
+    "https://www.infomoney.com.br": 21,
+    "https://forbes.com.br": 31,
+    "https://epocanegocios.globo.com": 12,
+    "https://valor.globo.com": 33,
+    "https://exame.com": 48,
+    "https://einvestidor.estadao.com.br": 11
+  },
+  "quantidade_por_tag": {
+    "Inteligência+Artificial": 41,
+    "Blockchain": 3,
+    "Cibersegurança": 5,
+    "Copilot": 1,
+    "Veículos+autônomos": 2,
+    "Tesla": 5,
+    "Google": 27,
+    "Meta": 46,
+    "Robo": 1,
+    "Inovação": 17,
+    "OpenAI": 15,
+    "Nvidia": 4,
+    "Apple+Vision+Pro": 2,
+    "Anthropic": 1,
+    "Samsung": 14,
+    "Amazon": 26,
+    "Microsoft": 11,
+    "SpaceX": 14,
+    "Waymo": 1,
+    "ChatGPT": 6,
+    "Sora+AI": 1,
+    "Claude+AI": 1,
+    "Gemini": 4,
+    "Midjourney": 1,
+    "AGI": 2,
+    "5G": 6
+  }
+}
